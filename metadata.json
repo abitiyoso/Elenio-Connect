@@ -1,0 +1,6 @@
+{
+  "name": "Elenio Connect",
+  "description": "Universal CCTV monitoring application for IP cameras, ONVIF discovery, and RTSP live streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
